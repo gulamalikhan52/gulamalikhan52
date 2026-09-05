@@ -226,27 +226,27 @@ applications.
 
 ---
 
-# 🚀 Featured Projects
+<h2>🚀 Featured Projects</h2>
 
-<div align="center">
+<h3>01 · AI Repository Intelligence</h3>
 
-### ⚡ Selected Projects
+<p>
+  <strong>Natural-language codebase exploration and repository Q&A using RAG.</strong>
+</p>
 
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
----
+<p><strong>Pipeline</strong></p>
 
-## 01 · 🧠 AI Repository Intelligence
-
-> **AI-powered codebase exploration and repository Q&A**
-
-An AI-powered system that allows developers to ask **natural-language
-questions about an entire GitHub repository** instead of manually
-searching through files.
-
-### 🔄 Architecture
-
-```text
+<pre>
 GitHub Repository
         ↓
 Repository Download
@@ -255,7 +255,7 @@ File Filtering
         ↓
 Code Chunking
         ↓
-Embedding Generation
+Embeddings
         ↓
 FAISS Vector Index
         ↓
@@ -263,8 +263,218 @@ Semantic Search
         ↓
 Top-K Retrieval
         ↓
-RAG Context
+RAG Context Building
         ↓
 Groq LLM
         ↓
 Answer + Sources
+</pre>
+
+<p><strong>Highlights</strong></p>
+
+<ul>
+  <li>Natural-language querying across complete repositories</li>
+  <li>Code-aware chunking and semantic retrieval</li>
+  <li>FAISS vector similarity search</li>
+  <li>RAG-based context construction</li>
+  <li>Source-aware answers</li>
+  <li>Streamlit interface + FastAPI backend</li>
+  <li>Dockerized deployment</li>
+</ul>
+
+<hr />
+
+<h3>02 · LegalAI</h3>
+
+<p>
+  <strong>AI-powered legal document analysis and context-aware question answering using RAG.</strong>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector_Search-0467DF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+<p><strong>Pipeline</strong></p>
+
+<pre>
+Legal Documents
+        ↓
+Document Processing
+        ↓
+Chunking
+        ↓
+Embeddings
+        ↓
+Vector Retrieval
+        ↓
+Relevant Context
+        ↓
+LLM
+        ↓
+Context-Aware Answer
+</pre>
+
+<p><strong>Highlights</strong></p>
+
+<ul>
+  <li>Legal document ingestion and processing</li>
+  <li>Semantic retrieval of relevant passages</li>
+  <li>Vector-based document search</li>
+  <li>Retrieval-Augmented Generation</li>
+  <li>Context-aware legal Q&amp;A</li>
+  <li>FastAPI backend</li>
+  <li>Docker-ready deployment</li>
+</ul>
+
+<hr />
+
+<h3>03 · RAG-Based Intelligent Chatbot</h3>
+
+<p>
+  <strong>Document-aware conversational AI that retrieves relevant knowledge before generating answers.</strong>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge" />
+</p>
+
+<p><strong>Pipeline</strong></p>
+
+<pre>
+Documents
+        ↓
+Loading
+        ↓
+Text Chunking
+        ↓
+Embeddings
+        ↓
+FAISS Vector Store
+        ↓
+Semantic Retrieval
+        ↓
+Relevant Context
+        ↓
+LLM
+        ↓
+Conversational Response
+</pre>
+
+<p><strong>Highlights</strong></p>
+
+<ul>
+  <li>Document-grounded chatbot</li>
+  <li>Semantic document retrieval</li>
+  <li>Text chunking and embeddings</li>
+  <li>FAISS vector search</li>
+  <li>RAG-based response generation</li>
+  <li>Hugging Face embeddings</li>
+  <li>Interactive Streamlit UI</li>
+</ul>
+
+<hr />
+
+<h3>04 · Machine Learning Prediction System</h3>
+
+<p>
+  <strong>End-to-end machine learning pipeline with production-ready prediction APIs.</strong>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" />
+</p>
+
+<p><strong>Pipeline</strong></p>
+
+<pre>
+Dataset
+        ↓
+Preprocessing
+        ↓
+Feature Engineering
+        ↓
+Model Training
+        ↓
+Evaluation
+        ↓
+Prediction Pipeline
+        ↓
+FastAPI REST API
+        ↓
+Prediction Response
+</pre>
+
+<p><strong>Highlights</strong></p>
+
+<ul>
+  <li>End-to-end ML workflow</li>
+  <li>Data preprocessing and feature engineering</li>
+  <li>Model training and evaluation</li>
+  <li>Reusable prediction pipeline</li>
+  <li>REST API for model serving</li>
+  <li>FastAPI-based backend</li>
+</ul>
+
+<hr />
+
+<h3>05 · WhatsApp Food Ordering Chatbot</h3>
+
+<p>
+  <strong>Automated WhatsApp ordering workflow with real-time order processing and confirmations.</strong>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Webhooks-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation-6C63FF?style=for-the-badge" />
+</p>
+
+<p><strong>Pipeline</strong></p>
+
+<pre>
+Customer
+    ↓
+WhatsApp
+    ↓
+WhatsApp API
+    ↓
+Webhook
+    ↓
+n8n Workflow
+    ↓
+Order Processing
+    ↓
+Validation
+    ↓
+Confirmation
+    ↓
+Customer
+</pre>
+
+<p><strong>Highlights</strong></p>
+
+<ul>
+  <li>WhatsApp-based food ordering</li>
+  <li>Automated order processing</li>
+  <li>Webhook-driven workflow</li>
+  <li>REST API integrations</li>
+  <li>Real-time order handling</li>
+  <li>Automated order confirmations</li>
+  <li>n8n workflow automation</li>
+</ul>

@@ -303,84 +303,6 @@ integrating services, and deploying applications.
 
 ---
 
-# 🛠️ Tech Stack
-
-## 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,go,js,c,cpp" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
----
-
-## 🗄️ Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql" />
-</p>
-
----
-
-## 🤖 AI / ML / Generative AI
-
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%20Agents-111111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-111111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Context%20Engineering-111111?style=for-the-badge"/>
-</p>
-
----
-
-## ⚙️ Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OAuth2-3C3C3C?style=for-the-badge"/>
-</p>
-
----
-
-## ☁️ DevOps & Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash,vscode" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
-</p>
-
----
-
 <!-- ======================= PROJECTS ======================= -->
 
 <h1 align="center">🚀 Featured Projects</h1>
@@ -390,7 +312,69 @@ integrating services, and deploying applications.
 </p>
 
 <br>
+<h2>🛠️ Tech Stack</h2>
 
+<!-- Programming Languages -->
+<h3>💻 Programming Languages</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,go,js,c,cpp" />
+</p>
+
+<!-- Databases & Storage -->
+<h3>🗄️ Databases & Storage</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector%20Databases-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" />
+</p>
+
+<!-- AI / ML / GenAI -->
+<h3>🤖 AI / ML / GenAI</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+
+<!-- Backend -->
+<h3>⚙️ Backend & APIs</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask" />
+  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge" />
+</p>
+
+<!-- DevOps -->
+<h3>🚀 DevOps & Cloud</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge" />
+</p>
+
+<!-- Tools -->
+<h3>🔧 Tools & Automation</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea" />
+</p>
 <table>
 <tr>
 

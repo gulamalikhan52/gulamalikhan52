@@ -1,34 +1,51 @@
+<!-- ======================= HEADER ======================= -->
+
 <h1 align="center">Hi 👋, I'm Ghulam Ali Khan</h1>
 
 <p align="center">
-  <b>Computer Science & Engineering Student • GenAI Developer • Backend Developer • Open Source Contributor</b>
+  <strong>Computer Science & Engineering Student</strong>
+  •
+  <strong>GenAI Developer</strong>
+  •
+  <strong>Backend Developer</strong>
+  •
+  <strong>Open Source Contributor</strong>
 </p>
 
 <p align="center">
   <a href="https://github.com/gulamalikhan52">
-    <img src="https://img.shields.io/badge/GitHub-gulamalikhan52-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-gulamalikhan52-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gulamalikhan52&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 ---
+
+<!-- ======================= ABOUT ======================= -->
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science & Engineering student passionate about building
-practical software solutions using **Generative AI, Machine Learning,
+I'm a **Computer Science & Engineering student** passionate about building
+practical software solutions with **Generative AI, Machine Learning,
 Backend Development, and Automation**.
 
 - 🎓 B.Tech in Computer Science & Engineering
 - 🤖 Building RAG and LLM-powered applications
 - ⚙️ Developing backend services and REST APIs
 - 🌱 Exploring Open Source and collaborative development
-- 🚀 NsoC & SSoC Contributor
+- 🚀 Nexus Summer of Code Contributor
+- 🤝 Social Summer of Code Contributor
 - 📍 Delhi, India
 
 ---
+
+<!-- ======================= TECH STACK ======================= -->
 
 ## 🛠️ Tech Stack
 
@@ -38,66 +55,130 @@ Backend Development, and Automation**.
   <img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,go" />
 </p>
 
-`SQL`
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
 
 ### 🤖 AI / ML & Generative AI
 
-`LangChain` • `LangGraph` • `RAG` • `FAISS`  
-`Hugging Face` • `LLMs` • `OpenAI API` • `Gemini API` • `Groq API`  
-`Prompt Engineering` • `AI Agents` • `Context Engineering` • `OpenCV`
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" />
+</p>
 
-### ⚙️ Backend Development
+<p>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" />
+</p>
 
-`FastAPI` • `REST APIs` • `Pydantic`  
-`JWT Authentication` • `OAuth2`  
-`PostgreSQL` • `MySQL` • `Supabase`
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Agents-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-111111?style=for-the-badge" />
+</p>
 
-### ☁️ DevOps & Development Tools
+---
+
+### ⚙️ Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,mysql" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth2-3C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
+
+---
+
+### ☁️ DevOps & Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash,vscode" />
 </p>
 
-`CI/CD` • `Postman` • `DBeaver` • `Jupyter Notebook`  
-`PyCharm` • `IntelliJ IDEA` • `n8n` • `Streamlit`
+<p>
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
 
 ---
 
+### 🔧 Automation & Frameworks
+
+<p>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pycharm,idea" />
+</p>
+
+---
+
+<!-- ======================= PROJECTS ======================= -->
+
 # 🚀 Featured Projects
 
-## 🧠 AI Repository Intelligence
+### 🧠 AI Repository Intelligence
 
-> AI-powered repository intelligence for understanding and exploring
-> entire codebases using natural-language queries.
+<p>
+  <img src="https://img.shields.io/badge/AI-Repository%20Intelligence-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG-Powered-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/FAISS-Semantic%20Search-orange?style=flat-square" />
+</p>
+
+> AI-powered repository intelligence for exploring entire codebases
+> using natural-language queries.
 
 **Tech Stack**
 
-`Python` • `Streamlit` • `FastAPI` • `LangGraph`  
-`Sentence Transformers` • `FAISS` • `Groq` • `Docker`
+`Python` `Streamlit` `FastAPI` `LangGraph`
+`Sentence Transformers` `FAISS` `Groq` `Docker`
 
-### Highlights
+**Highlights**
 
 - 🔍 Natural-language querying of GitHub repositories
 - 📥 Automated repository downloading and file processing
 - ✂️ Intelligent code chunking
 - 🧠 Embedding generation using Sentence Transformers
-- ⚡ Semantic search with FAISS
+- ⚡ Semantic search using FAISS
 - 🔗 Retrieval-Augmented Generation pipeline
-- 🤖 LLM-powered contextual answers
+- 🤖 LLM-powered contextual responses
 - 📚 Relevant source retrieval for better code understanding
 
 ---
 
-## ⚖️ LegalAI
+### ⚖️ LegalAI
+
+<p>
+  <img src="https://img.shields.io/badge/AI-LegalAI-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG-Powered-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square" />
+</p>
 
 > AI-powered legal document analysis and question-answering system
 > using Retrieval-Augmented Generation.
 
 **Tech Stack**
 
-`Python` • `RAG` • `LLMs` • `FastAPI` • `Docker`
+`Python` `RAG` `LLMs` `FastAPI` `Docker`
 
-### Highlights
+**Highlights**
 
 - 📄 Legal document processing
 - 🔎 Context retrieval from documents
@@ -107,34 +188,34 @@ Backend Development, and Automation**.
 
 ---
 
-## 🤖 RAG-Based Intelligent Chatbot
+### 🤖 RAG-Based Intelligent Chatbot
 
-> A context-aware conversational AI system using document retrieval
-> and Large Language Models.
+> Context-aware conversational AI using document retrieval and
+> Large Language Models.
 
 **Tech Stack**
 
-`Python` • `LangChain` • `FAISS` • `Hugging Face` • `Streamlit`
+`Python` `LangChain` `FAISS` `Hugging Face` `Streamlit`
 
-### Highlights
+**Highlights**
 
 - 📚 Document chunking
 - 🧠 Embedding generation
 - 🔎 Semantic document retrieval
-- 💬 Context-aware responses
+- 💬 Context-aware response generation
 - 🖥️ Interactive Streamlit interface
 
 ---
 
-## 📈 Machine Learning Prediction System
+### 📈 Machine Learning Prediction System
 
 > End-to-end machine learning prediction pipeline with a REST API backend.
 
 **Tech Stack**
 
-`Python` • `Scikit-learn` • `Pandas` • `FastAPI`
+`Python` `Scikit-learn` `Pandas` `FastAPI`
 
-### Highlights
+**Highlights**
 
 - 🧹 Data preprocessing
 - ⚙️ Feature engineering
@@ -144,15 +225,15 @@ Backend Development, and Automation**.
 
 ---
 
-## 💬 WhatsApp Food Ordering Chatbot
+### 💬 WhatsApp Food Ordering Chatbot
 
 > Automated WhatsApp food-ordering system using workflow automation.
 
 **Tech Stack**
 
-`n8n` • `WhatsApp API` • `REST API` • `Webhooks`
+`n8n` `WhatsApp API` `REST API` `Webhooks`
 
-### Highlights
+**Highlights**
 
 - 💬 Automated customer interactions
 - 📦 Real-time order processing
@@ -162,37 +243,49 @@ Backend Development, and Automation**.
 
 ---
 
+<!-- ======================= OPEN SOURCE ======================= -->
+
 # 🌱 Open Source Contributions
 
-### 🚀 Nexus Summer of Code — Contributor
+### 🚀 Nexus Summer of Code
 
-**2026 – Present**
+**Contributor • 2026 – Present**
 
-- Developed features and improvements
-- Resolved issues
-- Improved project documentation
-- Submitted pull requests using Git and GitHub
-- Collaborated with the open-source community
+- 💻 Developed features and improvements
+- 🐛 Resolved issues and bugs
+- 📝 Improved project documentation
+- 🔀 Submitted Pull Requests using Git & GitHub
+- 🤝 Collaborated with the open-source community
 
-### 🤝 Social Summer of Code — Contributor
+### 🤝 Social Summer of Code
 
-**2026 – Present**
+**Contributor • 2026 – Present**
 
-- Contributed to community-driven repositories
-- Implemented code enhancements
-- Fixed bugs
-- Updated documentation
-- Participated in collaborative code reviews
+- 💻 Contributed to community-driven repositories
+- 🐛 Implemented bug fixes and code enhancements
+- 📝 Updated documentation
+- 👀 Participated in collaborative code reviews
+- 🔀 Followed open-source contribution best practices
+
+---
+
+<!-- ======================= ACHIEVEMENTS ======================= -->
+
+# 🏆 Achievements
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LeetCode-150%2B%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+
+<img src="https://img.shields.io/badge/CodeChef-400%2B%20Problems-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+
+<img src="https://img.shields.io/badge/NSS-Active%20Member-1F6FEB?style=for-the-badge" />
+
+</p>
 
 ---
 
-# 🏆 Achievement
-
-- 🌱 Active member of **National Service Scheme (NSS)**
-- 🚀 **Nexus Summer of Code Contributor**
-- 🤝 **Social Summer of Code Contributor**
-
----
+<!-- ======================= EDUCATION ======================= -->
 
 # 🎓 Education
 
@@ -202,21 +295,38 @@ Backend Development, and Automation**.
 
 `2024 – Present`
 
+**CGPA: 8.51 / 10**
 
 ---
 
+<!-- ======================= CERTIFICATIONS ======================= -->
+
+# 📜 Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/SQL%20(Basic)-HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux%20Unhatched-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-Essentials-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+<!-- ======================= GITHUB STATS ======================= -->
 
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=gulamalikhan52&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=gulamalikhan52&theme=tokyonight&hide_border=true"
-    height="170"
-  />
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=gulamalikhan52&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  height="170"
+/>
+
+<img
+  src="https://streak-stats.demolab.com?user=gulamalikhan52&theme=tokyonight&hide_border=true"
+  height="170"
+/>
+
 </p>
 
 ---
@@ -224,9 +334,12 @@ Backend Development, and Automation**.
 # 💻 Most Used Languages
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulamalikhan52&layout=compact&theme=tokyonight&hide_border=true"
-  />
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulamalikhan52&layout=compact&theme=tokyonight&hide_border=true"
+  height="170"
+/>
+
 </p>
 
 ---
@@ -234,13 +347,17 @@ Backend Development, and Automation**.
 # 📈 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=gulamalikhan52&theme=tokyo-night&hide_border=true"
-    width="100%"
-  />
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=gulamalikhan52&theme=tokyo-night&hide_border=true"
+  width="100%"
+/>
+
 </p>
 
 ---
+
+<!-- ======================= CONNECT ======================= -->
 
 # 🤝 Let's Connect
 
@@ -259,9 +376,9 @@ Backend Development, and Automation**.
 ---
 
 <p align="center">
-  <i>Build. Learn. Contribute. Repeat.</i>
-</p>
 
-<p align="center">
-  ⭐ Explore my repositories and feel free to connect!
+### ⚡ Build • Learn • Contribute • Repeat
+
+<i>Turning ideas into software and continuously learning along the way.</i>
+
 </p>
